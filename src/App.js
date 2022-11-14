@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Tony & Chris : Best Duo Around
         </a>
       </header>
     </div>
